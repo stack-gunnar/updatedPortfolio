@@ -4,9 +4,9 @@
 
 This is my updated portfolio
 
-It contains information about me and important links.
+It contains information about me and links to my GitHub repository and LinkedIn.
 
-## Site link
+## Deployed Site Link
 
 The link to the deployed application can be found **[https://stack-gunnar.github.io/updatedPortfolio/](https://stack-gunnar.github.io/updatedPortfolio/)**.
 
